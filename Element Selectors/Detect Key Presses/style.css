@@ -1,0 +1,9 @@
+#myDiv{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: chocolate;
+    color: white;
+    position: relative;
+}
